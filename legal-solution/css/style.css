@@ -11,6 +11,15 @@
     align-items: center;
     margin: auto;
 }
-.text-primary,text-secondary{
-    color: antiquewhite;
+.slider-image-1{
+    background-image:url("../images/slider-1.jpg");
+    height: 100vh;
+}
+.slider-image-2{
+    background-image: url("../images/slider-2.jpg");
+    height: 100vh;
+}
+.slider-image-3{
+    background-image: url("../images/slider-3.jpg");
+    height: 100vh;
 }
